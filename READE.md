@@ -1,7 +1,3 @@
 "#officeDemo-master"
 <br>
-word转成Html
-<br>
-<a href="http://wowubuntu.com/markdown/">查看1<a/>
-<br>
-再测试一次1
+word和excel转成Html,以方便支持文档不能下载、不能复制、不能打印
