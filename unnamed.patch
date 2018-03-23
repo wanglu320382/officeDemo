@@ -1,0 +1,32 @@
+Index: wanglu.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- wanglu.patch	(revision )
++++ wanglu.patch	(revision )
+@@ -0,0 +1,12 @@
++Index: test.txt
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++--- test.txt	(revision 0a0bc272d0771b712fec60a4fd4b311a095820b7)
+++++ test.txt	(revision )
++@@ -1,1 +1,1 @@
+++分支测试
++\ No newline at end of file
++ 
++\ No newline at end of file
+Index: test.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test.txt	(revision 25c55e4caa07a98bfec20dfef9c1568591bf018a)
++++ test.txt	(revision )
+@@ -1,1 +1,1 @@
+-分支测试1
+\ No newline at end of file
++分支测试11111111111111
+\ No newline at end of file

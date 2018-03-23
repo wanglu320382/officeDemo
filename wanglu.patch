@@ -1,0 +1,12 @@
+Index: test.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test.txt	(revision 0a0bc272d0771b712fec60a4fd4b311a095820b7)
++++ test.txt	(revision )
+@@ -1,1 +1,1 @@
++分支测试
+\ No newline at end of file
+ 
+\ No newline at end of file

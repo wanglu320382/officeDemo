@@ -1,0 +1,15 @@
+Index: app.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app.js	(date 1521768646000)
++++ app.js	(revision )
+@@ -12,7 +12,6 @@
+  * Removal or modification of this copyright notice is prohibited.
+  */
+ 
+-
+ 'use strict';
+ 
+ var path = require('path');
